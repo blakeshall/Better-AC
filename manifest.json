@@ -7,7 +7,8 @@
     "description": "Provides an Accela link to Lexington's Agency Counter",
   
     "icons": {
-    },
+        "48": "icons/better-ac-48.png"
+      },
   
     "content_scripts": [
       {
