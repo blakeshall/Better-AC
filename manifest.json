@@ -15,7 +15,13 @@
         "matches": ["*://*.lexingtonky.agencycounter.com/?tab=map*"],
         "js": ["betterAC.js"]
       }
-    ]
+    ],
+
+    "browser_specific_settings": {
+        "gecko": {
+          "id": "blake@blakeshall.com"
+        }
+      }
   
   }
   
