@@ -1,0 +1,20 @@
+{
+
+    "manifest_version": 2,
+    "name": "Better AC",
+    "version": "1.0",
+  
+    "description": "Provides an Accela link to Lexington's Agency Counter",
+  
+    "icons": {
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.lexingtonky.agencycounter.com/?tab=map*"],
+        "js": ["betterAC.js"]
+      }
+    ]
+  
+  }
+  
