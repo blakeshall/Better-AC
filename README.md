@@ -7,5 +7,5 @@ that record. Some types of building records don't work, but the majority do.
 It also changes the button for "New Request" to "New Search" because "New Request"
 is confusing and a poor choice of words.
 
-![Screenshot](/repository/screenshot.png?raw=true "Screenshot")
+![Screenshot](/screenshot.png?raw=true "Screenshot")
 
