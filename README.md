@@ -9,3 +9,6 @@ is confusing and a poor choice of words.
 
 ![Screenshot](/screenshot.png?raw=true "Screenshot")
 
+## Installation
+
+To install just [click here](/better-ac.xpi?raw=true). This will download the .XPI (essentially a ZIP but with a different extension).
